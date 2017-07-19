@@ -1,0 +1,12 @@
+<config>
+	<props>
+		<item>
+			<name>Name1</name>
+			<value>value1</value>
+		</item>
+		<item>
+			<name>Name2</name>
+			<value>value2</value>
+		</item>
+	</props>
+</config>   
